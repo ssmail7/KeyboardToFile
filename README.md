@@ -1,2 +1,3 @@
 # KeyboardToFile
-Part of Project 10 from my Programming Concepts class during the Spring 2016 semester.
+
+This program reads an arbitrary number of strings from the keyboard and writes them to a text file.
